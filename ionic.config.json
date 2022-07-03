@@ -1,0 +1,7 @@
+{
+  "name": "inline-modal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
